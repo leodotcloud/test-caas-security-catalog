@@ -1,0 +1,5 @@
+name: caas-security
+description: |
+  CAAS Security plugin
+version: v1
+category: Security

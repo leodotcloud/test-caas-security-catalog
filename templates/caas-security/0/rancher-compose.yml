@@ -1,0 +1,4 @@
+.catalog:
+  name: "caas-security"
+  version: "v1"
+  description: "CAAS Security Plugin"
